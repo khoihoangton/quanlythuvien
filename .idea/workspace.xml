@@ -4,10 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="838152d4-fb2e-4abc-9031-498059f6e3bb" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/BT TUAN3/src/bttuan3.java" afterDir="false" />
+    <list default="true" id="838152d4-fb2e-4abc-9031-498059f6e3bb" name="Changes" comment="BAITAPTUAN3">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/quanlythuvien.iml" beforeDir="false" afterPath="$PROJECT_DIR$/quanlythuvien.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BT TUAN3/src/bttuan3.java" beforeDir="false" afterPath="$PROJECT_DIR$/BT TUAN3/src/bttuan3.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -57,7 +56,7 @@
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
     "onboarding.tips.debug.path": "/Users/tonhoangkhoi/Desktop/quanlythuvien/src/Main.java",
-    "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable"
+    "settings.editor.selected.configurable": "reference.settingsdialog.project.grazie"
   }
 }]]></component>
   <component name="RecentsManager">
@@ -86,6 +85,10 @@
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="BAITAPTUAN3" />
+    <option name="LAST_COMMIT_MESSAGE" value="BAITAPTUAN3" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

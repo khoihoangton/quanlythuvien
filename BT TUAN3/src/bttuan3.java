@@ -8,6 +8,7 @@ public class bttuan3 {
     private int namXB;
     private double donGia;
     private int soLuong;
+    private String loaiSach;
     public void nhap(Scanner sc) {
         int namHienTai = Year.now().getValue();
         System.out.print("Nhập mã sách: ");
@@ -16,6 +17,30 @@ public class bttuan3 {
         this.tenSach = sc.nextLine();
         System.out.print("Nhập tác giả: ");
         this.tacGia = sc.nextLine();
+
+        System.out.println("--- Chọn loại sách ---");
+        System.out.println("1. Sách giáo khoa");
+        System.out.println("2. Sách tham khảo");
+        System.out.println("3. Sách chuyên ngành");
+        System.out.println("4. Sách khác");
+        System.out.print("Lựa chọn của bạn (1-4): ");
+        int chon = sc.nextInt();
+
+        switch (chon) {
+            case 1:
+                this.loaiSach = "Sách giáo khoa";
+                break;
+            case 2:
+                this.loaiSach = "Sách tham khảo";
+                break;
+            case 3:
+                this.loaiSach = "Sách chuyên ngành";
+                break;
+            default:
+                this.loaiSach = "Sách khác";
+                break;
+        }
+
         do {
             System.out.print("Nhập năm xuất bản: ");
             this.namXB = sc.nextInt();
@@ -47,15 +72,43 @@ public class bttuan3 {
     public double tinhTongTien() {
         return tinhThanhTien() + tinhPhiVanChuyen();
     }
-
+    public String phanLoaiGia(){
+        if (donGia <=50000){
+            return "sách giá thấp";
+        }
+        else if (donGia <=100000){
+            return "sách giá trungbinh";
+        }
+        else if (donGia <=200000){
+            return "sách giá cao";
+        }
+        else {
+            return "sách giá đặc biệt";
+        }
+    }
+    public String phanLoaiTonKho(){
+        if (soLuong ==0){
+            return "hết sách ròi";
+        }
+        else if (soLuong <=5){
+            return "sắp hết ròi cưng ơi";
+        }
+        else if (soLuong <=20){
+            return "còn ít";
+        }
+        else{
+            return"còn nhìuuu, tự tin bán đê";
+        }
+    }
     public void xuat() {
         System.out.println("\n--- THÔNG TIN SÁCH ---");
         System.out.println("Mã sách: " + maSach);
         System.out.println("Tên sách: " + tenSach);
         System.out.println("Tác giả: " + tacGia);
+        System.out.println("Loại sách: "+loaiSach);
         System.out.println("Năm xuất bản: " + namXB);
-        System.out.println("Đơn giá: " + donGia);
-        System.out.println("Số lượng: " + soLuong);
+        System.out.println("Đơn giá: " + donGia + " PHÂN LOẠI: "+phanLoaiGia());
+        System.out.println("Số lượng: " + soLuong + " TRONG KHO: "+phanLoaiTonKho());
         System.out.println("Thành tiền: " + tinhThanhTien());
         System.out.println("Phí vận chuyển: " + tinhPhiVanChuyen());
         System.out.println("Tổng tiền nhập: " + tinhTongTien());
