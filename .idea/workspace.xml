@@ -4,7 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="838152d4-fb2e-4abc-9031-498059f6e3bb" name="Changes" comment="BAITAPTUAN6" />
+    <list default="true" id="838152d4-fb2e-4abc-9031-498059f6e3bb" name="Changes" comment="BAITAPTUAN6">
+      <change afterPath="$PROJECT_DIR$/BT TUAN7/src/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BT TUAN7/src/bttuan7.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BT TUAN6/src/bttuan6.java" beforeDir="false" afterPath="$PROJECT_DIR$/BT TUAN6/src/bttuan6.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/quanlythuvien.iml" beforeDir="false" afterPath="$PROJECT_DIR$/quanlythuvien.iml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -40,6 +46,7 @@
     "Application.bttuan3.executor": "Run",
     "Application.bttuan5.executor": "Run",
     "Application.bttuan6.executor": "Run",
+    "Application.bttuan7.executor": "Run",
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",

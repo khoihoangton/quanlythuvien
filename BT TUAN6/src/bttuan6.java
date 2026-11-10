@@ -79,6 +79,7 @@ public class bttuan6 {
 
     public double tinhThanhTien() {
         return donGia * soLuong;
+
     }
 
     public double tinhPhiVanChuyen() {
