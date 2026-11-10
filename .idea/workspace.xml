@@ -4,9 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="838152d4-fb2e-4abc-9031-498059f6e3bb" name="Changes" comment="BAITAPTUAN3">
+    <list default="true" id="838152d4-fb2e-4abc-9031-498059f6e3bb" name="Changes" comment="BAITAPTUAN4">
+      <change afterPath="$PROJECT_DIR$/BT TUAN5/src/bttuan5.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BT TUAN3/src/bttuan3.java" beforeDir="false" afterPath="$PROJECT_DIR$/BT TUAN3/src/bttuan3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/quanlythuvien.iml" beforeDir="false" afterPath="$PROJECT_DIR$/quanlythuvien.iml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -41,6 +42,7 @@
   "keyToString": {
     "Application.Main.executor": "Run",
     "Application.bttuan3.executor": "Run",
+    "Application.bttuan5.executor": "Run",
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
@@ -56,6 +58,9 @@
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
     "onboarding.tips.debug.path": "/Users/tonhoangkhoi/Desktop/quanlythuvien/src/Main.java",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
     "settings.editor.selected.configurable": "reference.settingsdialog.project.grazie"
   }
 }]]></component>
@@ -88,7 +93,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="BAITAPTUAN3" />
-    <option name="LAST_COMMIT_MESSAGE" value="BAITAPTUAN3" />
+    <MESSAGE value="BAITAPTUAN4" />
+    <option name="LAST_COMMIT_MESSAGE" value="BAITAPTUAN4" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
