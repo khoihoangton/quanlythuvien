@@ -4,9 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="838152d4-fb2e-4abc-9031-498059f6e3bb" name="Changes" comment="BAITAPTUAN4">
-      <change afterPath="$PROJECT_DIR$/BT TUAN5/src/bttuan5.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="838152d4-fb2e-4abc-9031-498059f6e3bb" name="Changes" comment="BAITAPTUAN5">
+      <change afterPath="$PROJECT_DIR$/BT TUAN6/src/bttuan6.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/quanlythuvien.iml" beforeDir="false" afterPath="$PROJECT_DIR$/quanlythuvien.iml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -94,7 +93,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="BAITAPTUAN3" />
     <MESSAGE value="BAITAPTUAN4" />
-    <option name="LAST_COMMIT_MESSAGE" value="BAITAPTUAN4" />
+    <MESSAGE value="BAITAPTUAN5" />
+    <option name="LAST_COMMIT_MESSAGE" value="BAITAPTUAN5" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
