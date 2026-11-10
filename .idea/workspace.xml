@@ -4,13 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="838152d4-fb2e-4abc-9031-498059f6e3bb" name="Changes" comment="BAITAPTUAN6">
-      <change afterPath="$PROJECT_DIR$/BT TUAN7/src/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BT TUAN7/src/bttuan7.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BT TUAN6/src/bttuan6.java" beforeDir="false" afterPath="$PROJECT_DIR$/BT TUAN6/src/bttuan6.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/quanlythuvien.iml" beforeDir="false" afterPath="$PROJECT_DIR$/quanlythuvien.iml" afterDir="false" />
-    </list>
+    <list default="true" id="838152d4-fb2e-4abc-9031-498059f6e3bb" name="Changes" comment="BAITAPTUAN7" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -43,6 +37,7 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Application.Main.executor": "Run",
+    "Application.Test.executor": "Run",
     "Application.bttuan3.executor": "Run",
     "Application.bttuan5.executor": "Run",
     "Application.bttuan6.executor": "Run",
@@ -100,7 +95,8 @@
     <MESSAGE value="BAITAPTUAN4" />
     <MESSAGE value="BAITAPTUAN5" />
     <MESSAGE value="BAITAPTUAN6" />
-    <option name="LAST_COMMIT_MESSAGE" value="BAITAPTUAN6" />
+    <MESSAGE value="BAITAPTUAN7" />
+    <option name="LAST_COMMIT_MESSAGE" value="BAITAPTUAN7" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
