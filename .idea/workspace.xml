@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="838152d4-fb2e-4abc-9031-498059f6e3bb" name="Changes" comment="BAITAPTUAN7" />
+    <list default="true" id="838152d4-fb2e-4abc-9031-498059f6e3bb" name="Changes" comment="BAITAPTUAN6" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -94,9 +94,9 @@
     <MESSAGE value="BAITAPTUAN3" />
     <MESSAGE value="BAITAPTUAN4" />
     <MESSAGE value="BAITAPTUAN5" />
-    <MESSAGE value="BAITAPTUAN6" />
     <MESSAGE value="BAITAPTUAN7" />
-    <option name="LAST_COMMIT_MESSAGE" value="BAITAPTUAN7" />
+    <MESSAGE value="BAITAPTUAN6" />
+    <option name="LAST_COMMIT_MESSAGE" value="BAITAPTUAN6" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
